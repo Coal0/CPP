@@ -1,0 +1,5 @@
+Update your previous solution to handle invalid input (e.g. ‘x’) or valid input
+with extraneous characters (e.g. “43x”) when the user is guessing a number.
+
+Hint: Write a separate function to handle the user inputting their guess (along
+with the associated error handling).
