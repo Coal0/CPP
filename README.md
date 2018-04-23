@@ -1,2 +1,0 @@
-# CPP
-CPlusPlus exercises
