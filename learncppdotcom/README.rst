@@ -11,7 +11,7 @@ For example, for `chapter 2, section 6 <http://www.learncpp.com/cpp-tutorial/26-
 
 .. code::
 
-  c2.6_1
+  2.6_1
 
 ... for `chapter 5, comprehensive quiz <http://www.learncpp.com/cpp-tutorial/5-x-chapter-5-comprehensive-quiz/>`_, quiz 2a:
 
