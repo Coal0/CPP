@@ -3,7 +3,7 @@
 void printArray(int array[], int arrayLength) {
     std::cout << "{";
     for (int i = 0; i < arrayLength - 1; ++i) {
-        // avoid outputting an extranous comma
+        // avoid outputting an extraneous comma
         std::cout << array[i] << ", ";
     }
     std::cout << array[arrayLength - 1]  << "}\n";
